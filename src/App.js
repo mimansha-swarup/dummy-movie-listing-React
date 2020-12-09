@@ -138,8 +138,8 @@ export default function App() {
                 <img
                   alt="poster"
                   style={{
-                    paddingRight: "3vmin",
-                    paddingBottom: "2.5rem",
+                    // padding: "2.5vmin 3vmin",
+                    paddingRight: "1rem",
                     width: "22vw",
                     maxWidth: "200px"
                   }}
