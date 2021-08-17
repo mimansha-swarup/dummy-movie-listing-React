@@ -24,7 +24,7 @@ const movieDB = {
     {
       name: "The Terminator",
       img:
-        "https://www.theterminatorfans.com/wp-content/uploads/2015/05/The-Terminator-Poster.jpg",
+        "https://i2.wp.com/www.theterminatorfans.com/wp-content/uploads/2015/05/The-Terminator-Poster.jpg",
       description:
         "A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.",
       year: "1984",
